@@ -119,7 +119,7 @@ func main() {
 	fmt.Print("...назови себя: ")
 	fmt.Scanf("%s\n", &char_name)
 
-	fmt.Printf("Здравствуй, %s\n", char_name)
+	fmt.Printf("Здравствуй1, %s\n", char_name)
 	fmt.Println("Сейчас твоя выносливость — 80, атака — 5 и защита — 10.")
 	fmt.Println("Ты можешь выбрать один из трёх путей силы:")
 	fmt.Println("Воитель, Маг, Лекарь")
